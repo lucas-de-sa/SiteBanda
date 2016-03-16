@@ -1,6 +1,6 @@
 # Desafio
 
-Para esse segundo desafio, a intenção é que você desenvolva um novo novo site com o que você aprendeu nas últimas semanas. Algumas sugestões de componentes que podem ser utilizados:
+Para esse segundo desafio, a intenção é que você desenvolva um novo novo site com o que você aprendeu nas últimas semanas. Algumas sugestões de componentes e layouts que podem ser utilizados:
 
 - [ ] Menu com *hover*
 - [ ] Botões personalizados
