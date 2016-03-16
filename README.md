@@ -28,7 +28,7 @@ Essas são apenas algumas dicas. Fique a vontade para explorar o que mais te int
     <dt>mobile.css</dt><dd>Estilo para dispositivos móveis. Não precisa utilizá-lo por enquanto, veremos mais sobre ele nos próximos encontros</dd>
 </dl>
 
-#### Biblioteca externas de css
+#### Bibliotecas externas de css
 
 Os seguintes arquivos são de uso opcional, mas recomendamos fortemente que vocês utilizem pois trazem mais recursos e dinamicidade ao seu site. Clique em cada um para ver mais detalhes.
 
