@@ -15,17 +15,20 @@ Essas são apenas algumas dicas. Fique a vontade para explorar o que mais te int
 
 ## Conteúdo do Repositório
 
+
 <dl>
     <dt>index.html</dt><dd>A página inicial. Note que o cabeçalho já importa os arquivos necessários</dd>
+</dl>
 
+### css
+
+<dl>
     <dt>style.css</dt><dd>Estilo principal. Já importa o Google fonts</dd>
 
     <dt>mobile.css</dt><dd>Estilo para dispositivos móveis. Não precisa utilizá-lo por enquanto, veremos mais sobre ele nos próximos encontros</dd>
-
-    <dt>main.js</dt><dd>Suas funções em JavaScript. Também não é necessário modificá-lo por enquanto.</dd>
 </dl>
 
-### Biblioteca externas
+#### Biblioteca externas de css
 
 Os seguintes arquivos são de uso opcional, mas recomendamos fortemente que vocês utilizem pois trazem mais recursos e dinamicidade ao seu site. Clique em cada um para ver mais detalhes.
 
@@ -34,6 +37,13 @@ Os seguintes arquivos são de uso opcional, mas recomendamos fortemente que voc�
 - [Font Awesome.css](https://fortawesome.github.io/Font-Awesome/)
 
 __Obs.:__ Eles já estão no repositório, não é necessário baixá-los novamente.
+
+### js
+
+<dl>
+    <dt>main.js</dt><dd>Suas funções em JavaScript. Também não é necessário modificá-lo por enquanto.</dd>
+</dl>
+
 
 ## Como usar?
 
